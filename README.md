@@ -4,7 +4,7 @@ Questo è un progetto realizzato con Spring Boot
 <br>alcune delle librerie importate:
 - lombok - per creare in modo automatico costruttori e metodi (setters, getters, override del toString())
 - h2 - provider di persistenza, ci permette di visualizzare il database generato grazie alle rotte che di trovano nel file del package restController
-<br><br>In questo progetto viene consumata un'API (https://wizard-world-api.herokuapp.com/Spells/)
+<br><br>In questo progetto viene consumata un'API (https://wizard-world-api.herokuapp.com/Spells/) che fornisce elementi usati per creare e popolare un database 
 <br><br>
 <img width="738" alt="Schermata 2023-03-22 alle 21 32 02" src="https://user-images.githubusercontent.com/91018701/227030963-8ad53e11-88ae-417c-a235-b8b022195ee0.png">
 <br><br><br>
